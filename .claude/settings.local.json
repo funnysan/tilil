@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/kariukigachoki/Desktop/tilil/TaskManager.html)",
+      "Bash(screencapture -x /tmp/tilil_preview.png)"
+    ]
+  }
+}
